@@ -1,4 +1,4 @@
-# Resumo dos laboratórios de MICROSOFT AZURE da DIO
+# Resumo dos laboratórios de MICROSOFT AZURE AZ-900 da DIO
 <b>Obejtivo: </b> Este repositório tem como objetivo armazenar os resumos de laboratórios feitos no Bootcamp Microsoft Azure Essentials da Dio.
 
 <h3>Lab 1: Localizando Serviços por Categoria</h3>
@@ -12,3 +12,6 @@
   
 <h3>Lab 4: Construindo arquiteturas no Azure</h3>
   Neste laboratório, a instrutora mostrou como criar um grupo de recursos, como gerenciar o acesso aos recursos desse grupo como ação fundamental de segurança, criou uma Virtual Network para exemplificar o processo de criação de um recurso dentro de um Grupo de Recursos.
+  
+<h3>Lab 5: Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure</h3>
+  Neste laboratório, a instrutora nos guia a criar alguns recursos vistos na aula anterior ao laboratório, como Vnet, VMs, Azure Vitual Desktops e App Function(App Services).
