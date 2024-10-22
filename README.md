@@ -9,3 +9,6 @@
 
 <h3>Lab 3: Configurando uma instância de Banco de Dados no Azure</h3>
   Neste laboratório, a instrutora Valéria sugere alguns cuidados que devemos ter ao criar uma máquina virtual e também exemplificou isso ao simular uma configuração de uma instância de uma banco de dados, onde mostrou a criação de um servidor para poder instanciar o BD, relembrou a quatãos dos SLAs e mostrou a importância de previsão de custos pela calculadora de custos do Azure.
+  
+<h3>Lab 4: Construindo arquiteturas no Azure</h3>
+  Neste laboratório, a instrutora mostrou como criar um grupo de recursos, como gerenciar o acesso aos recursos desse grupo como ação fundamental de segurança, criou uma Virtual Network para exemplificar o processo de criação de um recurso dentro de um Grupo de Recursos.
