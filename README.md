@@ -15,3 +15,6 @@
   
 <h3>Lab 5: Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure</h3>
   Neste laboratório, a instrutora nos guia a criar alguns recursos vistos na aula anterior ao laboratório, como Vnet, VMs, Azure Vitual Desktops e App Function(App Services).
+
+<h3>Lab 6: Dominando o Armazenamento na Azure</h3>
+  Aqui aprendemos com criar um storage account e utilizar de seus serviços, como o blobs, containers, gerenciador de armazenamento do Azure e o AzCopy.
